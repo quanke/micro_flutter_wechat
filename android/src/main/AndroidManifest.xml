@@ -1,3 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="com.wjapi.micro.micro_flutter_wechat">
+    <uses-permission android:name="android.permission.INTERNET" />
+
 </manifest>
